@@ -1,4 +1,4 @@
-# Ads-Library-API-Script-Repository
+Lalita Suthimoon Ads-Library-API-Script-Repository
 Ads-Library-API-Script-Repository is a set of code examples to help user/researchers understand how the Facebook Ads Library API works. It also provides a simple command-line interface(CLI) for users to easily use the Facebook Ads Library API.
 
 ## Examples
